@@ -189,7 +189,7 @@ images:
 
 # Using slides directly instead,and because the sliding time ends at 1s, adding the same slide 2 more times, increases the sliding time to 3s (approx)
 
-#slideshow [ "SeleneOS.png","SeleneOS.png","SeleneOS.png","desktops.png","desktops.png","desktops.png","games.png","games.png","games.png","packages1.png","packages1.png","packages1.png","inits.png", "inits.png", "inits.png","inits.png","inits.png", "manjaro.png","manjaro.png","manjaro.png", ]
+#slideshow [ "SeleneOS.png","SeleneOS.png","SeleneOS.png","desktops.png","desktops.png","desktops.png","games.png","games.png","games.png","packages1.png","packages1.png","packages1.png","inits.png", "inits.png", "inits.png","inits.png","inits.png", "manjaro.png","manjaro.png","manjaro.png","thanks.png","thanks.png","thanks.png", ]
 
 slideshow:  "show.qml"
 
