@@ -123,7 +123,7 @@ navigation: widget
 strings:
     productName:         Cereus Linux
     shortProductName:    Cereus
-    version:             LXQt
+    version:             LXQt 
     shortVersion:        LXQt
     versionedName:       Cereus Linux LXQt
     shortVersionedName:  Cereus LXQt
@@ -159,6 +159,7 @@ strings:
 #       the window. Use `welcomeExpandingLogo` to make it non-scaled.
 #       Recommended size is 320x150.
 #
+# SeleneOS is real
 # These filenames can also use substitutions from os-release (see above).
 images:
     productLogo:         "logo.png"
@@ -188,7 +189,7 @@ images:
 
 # Using slides directly instead,and because the sliding time ends at 1s, adding the same slide 2 more times, increases the sliding time to 3s (approx)
 
-#slideshow [ "SeleneOS.png","SeleneOS.png","SeleneOS.png","desktops.png","desktops.png","desktops.png","games.png","games.png","games.png","packages1.png","packages1.png","packages1.png","inits.png", "inits.png", "inits.png","inits.png","inits.png", ]
+#slideshow [ "SeleneOS.png","SeleneOS.png","SeleneOS.png","desktops.png","desktops.png","desktops.png","games.png","games.png","games.png","packages1.png","packages1.png","packages1.png","inits.png", "inits.png", "inits.png","inits.png","inits.png", "manjaro.png","manjaro.png","manjaro.png", ]
 
 slideshow:  "show.qml"
 
